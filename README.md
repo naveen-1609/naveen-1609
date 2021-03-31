@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @naveen-1609
 - ✌  Technical skills:
-          Python
-          R
-          HTML,CSS and JS
-          C#
-          MATLAB
-          SQL (MySQL RDBMS)
+          Python | 
+          R | 
+          HTML,CSS and JS | 
+          C# | 
+          MATLAB | 
+          SQL (MySQL RDBMS) | 
           Tableau
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning , Deep Learning
